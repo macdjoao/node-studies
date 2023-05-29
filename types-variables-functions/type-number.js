@@ -1,0 +1,21 @@
+const firstNumber = 3;
+const secondNumber = 2;
+const sumOperation = firstNumber + secondNumber;
+const subOperation = firstNumber - secondNumber;
+const mulOperation = firstNumber * secondNumber;
+const divOperation = firstNumber / secondNumber;
+console.log("sum:", sumOperation);
+console.log("sub:", subOperation);
+console.log("mul:", mulOperation);
+console.log("div:", divOperation);
+
+const firstFloatNumber = 3.2;
+const secondFloatNumber = .9;
+const sumFloatOperation = firstFloatNumber + secondFloatNumber;
+const subFloatOperation = firstFloatNumber - secondFloatNumber;
+const mulFloatOperation = firstFloatNumber * secondFloatNumber;
+const divFloatOperation = firstFloatNumber / secondFloatNumber;
+console.log("sum:", sumFloatOperation);
+console.log("sub:", subFloatOperation);
+console.log("mul:", mulFloatOperation);
+console.log("div:", divFloatOperation);
